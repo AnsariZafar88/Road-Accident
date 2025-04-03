@@ -16,18 +16,18 @@
 <h3>Data Source</h3>
 <P>The data used in this dashboard is sourced from official road accident records and reports.</P><br>
 <h3>Usage</h3>
-<p>Open the provided Power BI dashboard to explore the visualizations.
+<p>- Open the provided Power BI dashboard to explore the visualizations.
 
-Use filters to analyze specific states, time periods, or accident causes.
+- Use filters to analyze specific states, time periods, or accident causes.
 
-Derive insights for road safety measures and policymaking.</p><br>
+- Derive insights for road safety measures and policymaking.</p><br>
 <h3>Repository Contents</h3>
-<p>Road Accident.pdf: The Power BI dashboard containing visualizations.
+<p>- Road Accident.pdf: The Power BI dashboard containing visualizations.
 
-README.md: This file describing the repository and its contents.</p><br>
+- README.md: This file describing the repository and its contents.</p><br>
 <h3>Future Enhancements</h3>
-<p>Addition of more detailed datasets.
+<p>- Addition of more detailed datasets.
 
-Interactive web-based dashboard version.
+- Interactive web-based dashboard version.
 
-Machine learning analysis for accident prediction.</p><br>
+- Machine learning analysis for accident prediction.</p><br>
